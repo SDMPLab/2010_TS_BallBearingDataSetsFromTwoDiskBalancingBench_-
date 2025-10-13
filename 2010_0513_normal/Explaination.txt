@@ -1,0 +1,9 @@
+Normal Bearing
+
+acceleration 
+Channel,Sensitivity(mv/g)  & gain
+
+CH 1¡G 352C41¡@10.69¡@¡@100X
+CH 2¡G BK4503¡@9.02¡@¡@ 100X
+
+

@@ -1,0 +1,8 @@
+正常軸承
+
+加速規cchannel,Sensitivity(mv/g)  & 放大倍率
+
+CH 1： 352C41　10.69　　100X
+CH 2： BK4503　9.02　　 100X
+
+
