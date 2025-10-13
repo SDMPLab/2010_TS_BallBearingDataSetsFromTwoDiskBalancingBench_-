@@ -1,0 +1,16 @@
+inner race defect
+Acceleration
+channel,Sensitivity(mv/g)  & Gain
+
+0-3000rpm scanning frequency experiment
+
+CH 1¡G 352C41¡@10.69¡@¡@100X
+CH 2¡G BK4503¡@9.02¡@¡@   10X
+
+
+1500¡B1800¡B2100 RPM
+
+CH 1¡G 352C41¡@10.69¡@¡@100X
+CH 2¡G BK4503¡@9.02¡@¡@ 100X
+
+
