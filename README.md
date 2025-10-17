@@ -1,4 +1,4 @@
-<div align="center">
-        <img alt="Lab" 
-            src="https://widgetbite.com/stats/<github-username>"/>  
+ <div align="center">
+        <img alt="Visitor Stats" 
+            src="https://widgetbite.com/stats/Lab"/>  
 </div>
